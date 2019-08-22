@@ -15,6 +15,11 @@
             <p class="leading">
                 Esta é uma ferramenta que oferece aos cidadãos um canal direto para sugerir pautas e projetos aos deputados estaduais. As ideias enviadas são analisadas por uma equipe técnica, que vai observar a pertinência da sugestão para a esfera de governo envolvida, no caso a Estadual. Ideias que digam respeito a assuntos de responsabilidade Federal, como mudanças na legislação penal por exemplo, não serão disponibilizadas ao público.
             </p>
+
+
+            @include('about.video')
+
+            
             <h2 class="instrucao-topico">
                 Como criar uma Ideia Legislativa?
             </h2>
